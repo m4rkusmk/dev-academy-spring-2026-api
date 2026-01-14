@@ -11,3 +11,7 @@ https://github.com/solita/dev-academy-spring-2026-exercise
 ```
 mvn spring-boot:run
 ```
+
+# UI
+The repository for the UI implementation using this API can be found at  
+https://github.com/m4rkusmk/dev-academy-spring-2026-ui
