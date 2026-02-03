@@ -17,3 +17,5 @@ mvn spring-boot:run
 The repository for the UI implementation using this API can be found at  
 https://github.com/m4rkusmk/dev-academy-spring-2026-ui
 
+# Future development points
+- add service layer
